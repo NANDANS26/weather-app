@@ -25,7 +25,7 @@ pip install requests
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/NANDANS26/weather-app.git
 cd weather-app
 ```
 
